@@ -1,0 +1,23 @@
+{
+  "name": "raiden",
+  "version": "0.0.1",
+  "description": "raiden",
+  "main": "index.js",
+  "bin": {
+    "raiden": "lib/index.js",
+    "rd": "lib/index.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^3.0.2",
+    "log4js": "^5.2.2",
+    "ora": "^4.0.2"
+  }
+}
