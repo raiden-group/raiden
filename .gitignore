@@ -1,1 +1,3 @@
 node_modules
+lib/.catch/*
+.DS_Store
