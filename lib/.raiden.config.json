@@ -1,0 +1,7 @@
+{
+  "RD_CONFIG_NAME": "rd.config.js",
+  "RD_NPM": "cnpm",
+  "RD_CATCH_CATEGORY_PATH": "./.catch/catch",
+  "RD_CATCH_JSON": "./.catch/.catch.json",
+  "RD_ONLINE_CONFIG_GIT": "git@github.com:raiden-group/rd-config.git"
+}
