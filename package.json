@@ -17,8 +17,10 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^3.0.2",
+    "compressing": "^1.5.0",
     "fs-extra": "^8.1.0",
     "inquirer": "^7.0.0",
+    "node-fetch": "^2.6.0",
     "ora": "^4.0.2",
     "rd-template-react-mobx": "0.0.1"
   }
