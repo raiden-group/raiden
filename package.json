@@ -1,6 +1,6 @@
 {
   "name": "raiden-cli",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "raiden",
   "main": "lib/index.js",
   "bin": {
@@ -22,6 +22,7 @@
     "inquirer": "^7.0.0",
     "node-fetch": "^2.6.0",
     "ora": "^4.0.2",
-    "rd-template-react-mobx": "0.0.1"
+    "rd-template-react-mobx": "0.0.1",
+    "stream-to-buffer": "^0.1.0"
   }
 }
